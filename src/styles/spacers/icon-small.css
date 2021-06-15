@@ -1,0 +1,23 @@
+.x-small {
+  @apply mt-1;
+}
+
+.x-small.left {
+  @apply mr-1;
+}
+
+.x-small.right {
+  @apply ml-1;
+}
+
+.small {
+  @apply mt-0.75;
+}
+
+.small.left {
+  @apply mr-2;
+}
+
+.small.right {
+  @apply ml-2;
+}

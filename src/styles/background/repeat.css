@@ -1,0 +1,23 @@
+.repeat {
+  @apply bg-repeat;
+}
+
+.no-repeat {
+  @apply bg-no-repeat;
+}
+
+.repeat-x {
+  @apply bg-repeat-x;
+}
+
+.repeat-y {
+  @apply bg-repeat-y;
+}
+
+.repeat-round {
+  @apply bg-repeat-round;
+}
+
+.repeat-space {
+  @apply bg-repeat-space;
+}

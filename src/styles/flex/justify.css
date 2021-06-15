@@ -1,0 +1,19 @@
+.center {
+  @apply justify-center;
+}
+
+.start {
+  @apply justify-start;
+}
+
+.end {
+  @apply justify-end;
+}
+
+.between {
+  @apply justify-between;
+}
+
+.evenly {
+  @apply justify-evenly;
+}

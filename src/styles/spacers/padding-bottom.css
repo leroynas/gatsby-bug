@@ -1,0 +1,19 @@
+.x-small {
+  @apply pb-1;
+}
+
+.small {
+  @apply pb-2;
+}
+
+.medium {
+  @apply pb-4;
+}
+
+.large {
+  @apply pb-8;
+}
+
+.x-large {
+  @apply pb-16;
+}

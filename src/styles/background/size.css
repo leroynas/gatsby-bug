@@ -1,0 +1,11 @@
+.contain {
+  @apply bg-contain;
+}
+
+.cover {
+  @apply bg-cover;
+}
+
+.auto {
+  @apply bg-auto;
+}

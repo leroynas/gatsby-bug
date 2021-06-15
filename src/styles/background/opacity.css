@@ -1,0 +1,51 @@
+.percent-5 {
+  @apply bg-opacity-5;
+}
+
+.percent-10 {
+  @apply bg-opacity-10;
+}
+
+.percent-20 {
+  @apply bg-opacity-20;
+}
+
+.percent-25 {
+  @apply bg-opacity-25;
+}
+
+.percent-30 {
+  @apply bg-opacity-30;
+}
+
+.percent-40 {
+  @apply bg-opacity-40;
+}
+
+.percent-50 {
+  @apply bg-opacity-50;
+}
+
+.percent-60 {
+  @apply bg-opacity-60;
+}
+
+.percent-70 {
+  @apply bg-opacity-70;
+}
+
+.percent-75 {
+  @apply bg-opacity-75;
+}
+
+.percent-80 {
+  @apply bg-opacity-80;
+}
+
+.percent-90 {
+  @apply bg-opacity-90;
+}
+
+.percent-95 {
+  @apply bg-opacity-95;
+}

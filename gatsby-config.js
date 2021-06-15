@@ -2,5 +2,18 @@ module.exports = {
   siteMetadata: {
     title: "My gatsby project",
   },
-  plugins: ["gatsby-plugin-postcss"],
+  plugins: [
+    {
+      resolve: `gatsby-plugin-postcss`,
+      options: {
+        cssLoaderOptions: {
+          esModule: false,
+          modules: {
+            namedExport: false,
+            exportLocalsConvention: "asIs",
+          },
+        },
+      },
+    },
+  ],
 };

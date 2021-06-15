@@ -1,0 +1,39 @@
+.x-small.left {
+  @apply mr-xs;
+}
+
+.x-small.right {
+  @apply ml-xs;
+}
+
+.small.left {
+  @apply mr-sm;
+}
+
+.small.right {
+  @apply ml-sm;
+}
+
+.medium.left {
+  @apply mr-md;
+}
+
+.medium.right {
+  @apply ml-md;
+}
+
+.large.left {
+  @apply mr-lg;
+}
+
+.large.right {
+  @apply ml-lg;
+}
+
+.x-large .left {
+  @apply mr-xl;
+}
+
+.x-large .right {
+  @apply ml-xl;
+}

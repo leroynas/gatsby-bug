@@ -1,0 +1,19 @@
+.thin {
+  @apply font-thin;
+}
+
+.light {
+  @apply font-light;
+}
+
+.normal {
+  @apply font-normal;
+}
+
+.semibold {
+  @apply font-semibold;
+}
+
+.bold {
+  @apply font-bold;
+}

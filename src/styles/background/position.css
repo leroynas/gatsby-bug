@@ -1,0 +1,35 @@
+.bottom {
+  @apply bg-bottom;
+}
+
+.center {
+  @apply bg-center;
+}
+
+.left {
+  @apply bg-left;
+}
+
+.left-bottom {
+  @apply bg-left-bottom;
+}
+
+.left-top {
+  @apply bg-left-top;
+}
+
+.right {
+  @apply bg-right;
+}
+
+.right-bottom {
+  @apply bg-right-bottom;
+}
+
+.right-top {
+  @apply bg-right-top;
+}
+
+.top {
+  @apply bg-top;
+}

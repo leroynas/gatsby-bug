@@ -1,0 +1,11 @@
+.center {
+  @apply items-center;
+}
+
+.start {
+  @apply items-start;
+}
+
+.end {
+  @apply items-end;
+}

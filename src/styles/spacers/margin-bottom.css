@@ -1,0 +1,23 @@
+.none {
+  @apply mb-0;
+}
+
+.x-small {
+  @apply mb-1 last:mb-0;
+}
+
+.small {
+  @apply mb-2 last:mb-0;
+}
+
+.medium {
+  @apply mb-4 last:mb-0;
+}
+
+.large {
+  @apply mb-8 last:mb-0;
+}
+
+.x-large {
+  @apply mb-16 last:mb-0;
+}

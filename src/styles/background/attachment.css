@@ -1,0 +1,7 @@
+.fixed {
+  @apply bg-fixed;
+}
+
+.scroll {
+  @apply bg-scroll;
+}

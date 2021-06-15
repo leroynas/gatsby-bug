@@ -1,0 +1,33 @@
+@screen tablet-down {
+  .none {
+    @apply border-0;
+  }
+
+  .around {
+    @apply border-0 border-2;
+  }
+
+  .top {
+    @apply border-0 border-t-2;
+  }
+
+  .right {
+    @apply border-0 border-r-2;
+  }
+
+  .bottom {
+    @apply border-0 border-b-2;
+  }
+
+  .left {
+    @apply border-0 border-l-2;
+  }
+
+  .top-bottom {
+    @apply border-0 border-t-2 border-b-2;
+  }
+
+  .left-right {
+    @apply border-0 border-l-2 border-r-2;
+  }
+}

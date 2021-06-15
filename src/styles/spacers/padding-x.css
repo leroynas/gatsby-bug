@@ -1,0 +1,19 @@
+.x-small {
+  @apply px-xs;
+}
+
+.small {
+  @apply px-sm;
+}
+
+.medium {
+  @apply px-md;
+}
+
+.large {
+  @apply px-lg;
+}
+
+.x-large {
+  @apply px-xl;
+}

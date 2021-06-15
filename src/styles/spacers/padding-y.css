@@ -1,0 +1,19 @@
+.x-small {
+  @apply py-xs;
+}
+
+.small {
+  @apply py-sm;
+}
+
+.medium {
+  @apply py-md;
+}
+
+.large {
+  @apply py-lg;
+}
+
+.x-large {
+  @apply py-16;
+}

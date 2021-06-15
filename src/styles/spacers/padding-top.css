@@ -1,0 +1,19 @@
+.x-small {
+  @apply pt-1;
+}
+
+.small {
+  @apply pt-2;
+}
+
+.medium {
+  @apply pt-4;
+}
+
+.large {
+  @apply pt-8;
+}
+
+.x-large {
+  @apply pt-16;
+}

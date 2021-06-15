@@ -1,0 +1,19 @@
+.x-small {
+  @apply text-xs;
+}
+
+.small {
+  @apply text-sm;
+}
+
+.medium {
+  @apply text-base;
+}
+
+.large {
+  @apply text-lg;
+}
+
+.x-large {
+  @apply text-xl;
+}
